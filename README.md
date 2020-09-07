@@ -23,5 +23,5 @@
 <a href="https://codepen.io/pabssen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pabssen1" height="30" width="30" /></a>
 <a href="https://twitter.com/pabssen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pabssen1" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/debaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="debaditya" height="30" width="30" /></a>
-<a href="https://instagram.com/debaditya sen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="debaditya sen" height="30" width="30" /></a>
+<a href="https://instagram.com/i_am_programmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_programmed" height="30" width="30" /></a>
 </p>
