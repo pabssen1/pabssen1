@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabssen1&layout=compact&hide=html" alt="pabssen1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabssen1&show_icons=true" alt="pabssen1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabssen1&show_icons=true&count_private=true" alt="pabssen1" /></p>
 
 <p align="center">
 <a href="https://codepen.io/pabssen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pabssen1" height="30" width="30" /></a>
